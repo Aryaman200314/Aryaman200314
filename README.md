@@ -23,6 +23,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryaman200314&label=Profile%20views&color=0e75b6&style=flat" alt="aryaman200314" /> </p>
 
 <h3 align="left">Connect with me:</h3>
+<h3 align="left">2003arya@gmail.com</h3>
 <p align="left">
 </p>
 
