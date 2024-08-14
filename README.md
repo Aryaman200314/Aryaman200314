@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **open source project**
 
-- 💬 Ask me about **Web Development.**
+- 💬 Ask me about **Web Development and DSA.**
 
 - 📫 How to reach me **200314arya@gmail.com**
 
